@@ -1,7 +1,15 @@
-﻿a.navbar-brand {
+﻿body {
+  background-color:gainsboro
+}
+
+a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  color: white;
+  background-color:teal;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 html {
